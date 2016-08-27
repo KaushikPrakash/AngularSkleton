@@ -1,2 +1,1 @@
-# AngularSkleton
-Basic angular.js skleton with routing
+# Basic angular.js skleton with routing
